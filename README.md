@@ -6,6 +6,6 @@ University Project. The problem is solved using backtracking. The idea of the ex
 the backtracking technique and how it could be improved by pruning the recursion tree.
 The project includes implementation in Java and experimentation to verify complexity and execution time.
 
-[More](https://github.com/letyrodridc/FCEN-algorithms/wiki/LordOfTheKnights)
+[More](https://github.com/letyrodridc/FCEN-algorithms/wiki/Lord-Of-The-Knights)
  
 
